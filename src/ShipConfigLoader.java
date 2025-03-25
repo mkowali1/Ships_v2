@@ -1,0 +1,2 @@
+public class ShipConfigLoader {
+}
